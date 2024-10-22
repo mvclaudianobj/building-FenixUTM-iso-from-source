@@ -1,4 +1,4 @@
-# How to: building a pfSense .iso from sources
+# How to: building a FenixUTM .iso from sources
 
 Here are the steps for building a pfSense-CE ISO file. I tried to follow [the guide of PiBa-NL](https://github.com/PiBa-NL/PiBa-NL-WIKI/wiki/How-to-building-a-pfSense-.iso-from-sources) firstly, but there was missing things so I made my own guide. This guide has been written for 2.7.2, but may works for other versions
 
